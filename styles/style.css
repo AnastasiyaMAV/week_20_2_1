@@ -1,0 +1,31 @@
+.mainDivStyle1{
+    display: flex;
+    font-size: 21px;
+    font-family: cursive;
+}
+
+.mainDivStyle2{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
+
+.imgStyle{
+    max-width: 200px;
+}
+
+body{
+    background-color: silver;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    font-size: 36px;
+    font-family: cursive;
+}
+
+h2{
+    font-size: 26px;
+    font-family: cursive;
+}
